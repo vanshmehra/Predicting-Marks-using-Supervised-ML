@@ -1,5 +1,5 @@
 # Predicting the percentage of a student based on the number of study hours
-This was the task I solved durih my data science intern at the TSF
+This was the task I solved during my data science intern at the TSF
 
 ## Problem Statement
 To predict the percentage of a student based on the number of study hours
@@ -11,4 +11,4 @@ To predict the percentage of a student based on the number of study hours
 - Achieved a mean absolute error of 4.183859899002982
 
 ## Data used to Analyse and Predict
--http://bit.ly/w-data
+- http://bit.ly/w-data
