@@ -9,3 +9,6 @@ To predict the percentage of a student based on the number of study hours
 - For this problem statement, I took inspiration from https://www.researchgate.net/publication/318141663_Regression
 - I used Scikit-Learn's built-in train_test_split() method to split the set into training and test sets
 - Achieved a mean absolute error of 4.183859899002982
+
+## Data used to Analyse and Predict
+-http://bit.ly/w-data
